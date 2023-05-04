@@ -1,0 +1,2 @@
+Número total de palabras en el texto:
+381216
